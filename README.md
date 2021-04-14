@@ -7,7 +7,7 @@
 <p align="center">Creative Portfolio & Agency Theme</p>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1504975f-1df1-4fd0-a196-bb8e9992766b/deploy-status)](https://app.netlify.com/sites/avogeek/deploys)
-![GitHub](https://img.shields.io/github/license/uiuxarghya/avogeek)
+![GitHub](https://img.shields.io/github/license/innotecc/avogeek)
 ![Website](https://img.shields.io/website?down_message=offline&label=site&up_message=online&url=http%3A%2F%2Favogeek.netlify.app)
 
 ## [Live Demo](https://avogeek.netlify.app)
