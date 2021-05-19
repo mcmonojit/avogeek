@@ -11,12 +11,12 @@
 			[ All Css Plugins & Helper Classes File ]
 -----------------------------------------------------------------*/
 /* == bootstrap == */
-@import url("plugins/bootstrap.min.css"); /* == animate css == */
-@import url("plugins/animate.css"); /* == ionicons icon font == */
-@import url("plugins/ionicons.min.css"); /* == pe-icon-7-stroke == */
-@import url("plugins/pe-icon-7-stroke.css"); /* == fontawesome icon font == */
-@import url("plugins/fontawesome-all.min.css"); /* == justifiedGallery.min == */
-@import url("plugins/justifiedGallery.min.css"); /* == YouTubePopUp == */
-@import url("plugins/YouTubePopUp.css"); /* == slick carousel == */
-@import url("plugins/slick.css"); @import url("plugins/slick-theme.css"); /* == swiper.min font == */
-@import url("plugins/swiper.min.css");
+@import url("/avogeek/css/plugins/bootstrap.min.css"); /* == animate css == */
+@import url("/avogeek/css/plugins/animate.css"); /* == ionicons icon font == */
+@import url("/avogeek/css/plugins/ionicons.min.css"); /* == pe-icon-7-stroke == */
+@import url("/avogeek/css/plugins/pe-icon-7-stroke.css"); /* == fontawesome icon font == */
+@import url("/avogeek/css/plugins/fontawesome-all.min.css"); /* == justifiedGallery.min == */
+@import url("/avogeek/css/plugins/justifiedGallery.min.css"); /* == YouTubePopUp == */
+@import url("/avogeek/css/plugins/YouTubePopUp.css"); /* == slick carousel == */
+@import url("/avogeek/css/plugins/slick.css"); @import url("/avogeek/css/plugins/slick-theme.css"); /* == swiper.min font == */
+@import url("/avogeek/css/plugins/swiper.min.css");

@@ -3411,7 +3411,7 @@ body {
     right: -20px;
     width: 100px;
     height: 150px;
-    background-image: url(../img/dots.png);
+    background-image: url(/avogeek/img/dots.png);
     opacity: .4;
     z-index: -1;
 }

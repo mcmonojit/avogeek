@@ -11,8 +11,8 @@
 */
 @font-face {
     font-family: "Ionicons";
-    src: url("/fonts/iconicons/ionicons.eot?v=2.0.0");
-    src: url("/fonts/ionicons/ionicons.eot?v=2.0.0#iefix") format("embedded-opentype"),url("/fonts/ionicon/ionicons.ttf?v=2.0.0") format("truetype"),url("/fonts/ionicons/ionicons.woff?v=2.0.0") format("woff"),url("/fonts/ionicons/ionicons.svg?v=2.0.0#Ionicons") format("svg");
+    src: url("/avogeek/fonts/iconicons/ionicons.eot?v=2.0.0");
+    src: url("/avogeek/fonts/ionicons/ionicons.eot?v=2.0.0#iefix") format("embedded-opentype"),url("/avogeek/fonts/ionicon/ionicons.ttf?v=2.0.0") format("truetype"),url("/avogeek/fonts/ionicons/ionicons.woff?v=2.0.0") format("woff"),url("/avogeek/fonts/ionicons/ionicons.svg?v=2.0.0#Ionicons") format("svg");
     font-weight: normal;
     font-style: normal
 }
